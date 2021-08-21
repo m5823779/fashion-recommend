@@ -1,0 +1,1 @@
+docker run -d --name jocelyn.settv-it.com --restart always  -v /mnt/sa-nas/Docker/jocelyn.settv-it.com/app:/app -p 9876:80  jocelyn.settv-it.com

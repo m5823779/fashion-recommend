@@ -1,0 +1,13 @@
+elasticsearch==7.9.1
+flask
+Flask-Cors
+Flask-Login
+Flask-WTF
+Jinja2
+numpy
+pymongo
+python-dateutil
+pytz
+requests
+urllib3
+WTForms
