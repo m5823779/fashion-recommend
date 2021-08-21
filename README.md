@@ -1,5 +1,5 @@
 # Demo
-![](demo.gif){:height="40%" width="40%"}
+![](demo.gif)<img src="https://your-image-url.type" width="100" height="100">
 
 # Introduction
 ### System
