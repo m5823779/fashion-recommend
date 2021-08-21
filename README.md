@@ -1,5 +1,5 @@
 # Demo
-![](demo.mp4)
+![](demo.gif){:height="40%" width="40%"}
 
 # Introduction
 ### System
